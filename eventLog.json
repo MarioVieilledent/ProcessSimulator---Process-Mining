@@ -1,0 +1,2090 @@
+[
+	{
+		"title": "Receive",
+		"description": "Receive register request from Prince, 24 years old, from Turkey, the request will be analyzed soon enough.",
+		"idRelatedTo": 32,
+		"nameUser": "Prince",
+		"roleResponsible": "Director",
+		"timestamp": 7,
+		"date": "2022-12-14T05:00:07Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 32,
+		"nameUser": "Prince",
+		"roleResponsible": "Administration",
+		"timestamp": 7,
+		"date": "2022-12-14T05:00:07Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Jayce, 26 years old, from Slovenia, the request will be analyzed soon enough.",
+		"idRelatedTo": 87,
+		"nameUser": "Jayce",
+		"roleResponsible": "Director",
+		"timestamp": 10,
+		"date": "2022-12-14T05:00:10Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 87,
+		"nameUser": "Jayce",
+		"roleResponsible": "Administration",
+		"timestamp": 12,
+		"date": "2022-12-14T05:00:12Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 32,
+		"nameUser": "Prince",
+		"roleResponsible": "Teacher",
+		"timestamp": 12,
+		"date": "2022-12-14T05:00:12Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Hayes, 23 years old, from United Kingdom, the request will be analyzed soon enough.",
+		"idRelatedTo": 45,
+		"nameUser": "Hayes",
+		"roleResponsible": "Director",
+		"timestamp": 16,
+		"date": "2022-12-14T05:00:16Z"
+	},
+	{
+		"title": "Ask register again",
+		"description": "The register you provided student is not filled correctly, please register again with correct information.",
+		"idRelatedTo": 45,
+		"nameUser": "Hayes",
+		"roleResponsible": "Administration",
+		"timestamp": 17,
+		"date": "2022-12-14T05:00:17Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Lane, 19 years old, from Norway, the request will be analyzed soon enough.",
+		"idRelatedTo": 41,
+		"nameUser": "Lane",
+		"roleResponsible": "Director",
+		"timestamp": 21,
+		"date": "2022-12-14T05:00:21Z"
+	},
+	{
+		"title": "Ask register again",
+		"description": "The register you provided student is not filled correctly, please register again with correct information.",
+		"idRelatedTo": 41,
+		"nameUser": "Lane",
+		"roleResponsible": "Administration",
+		"timestamp": 22,
+		"date": "2022-12-14T05:00:22Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Knox, 25 years old, from France, the request will be analyzed soon enough.",
+		"idRelatedTo": 75,
+		"nameUser": "Knox",
+		"roleResponsible": "Director",
+		"timestamp": 25,
+		"date": "2022-12-14T05:00:25Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student from France due to previous bad experience with them.",
+		"idRelatedTo": 75,
+		"nameUser": "Knox",
+		"roleResponsible": "Administration",
+		"timestamp": 26,
+		"date": "2022-12-14T05:00:26Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from George, 28 years old, from United Kingdom, the request will be analyzed soon enough.",
+		"idRelatedTo": 1,
+		"nameUser": "George",
+		"roleResponsible": "Director",
+		"timestamp": 28,
+		"date": "2022-12-14T05:00:28Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 1,
+		"nameUser": "George",
+		"roleResponsible": "Administration",
+		"timestamp": 29,
+		"date": "2022-12-14T05:00:29Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Drew, 18 years old, from Slovenia, the request will be analyzed soon enough.",
+		"idRelatedTo": 16,
+		"nameUser": "Drew",
+		"roleResponsible": "Director",
+		"timestamp": 32,
+		"date": "2022-12-14T05:00:32Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 16,
+		"nameUser": "Drew",
+		"roleResponsible": "Administration",
+		"timestamp": 33,
+		"date": "2022-12-14T05:00:33Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Sean, 16 years old, from Slovenia, the request will be analyzed soon enough.",
+		"idRelatedTo": 94,
+		"nameUser": "Sean",
+		"roleResponsible": "Director",
+		"timestamp": 37,
+		"date": "2022-12-14T05:00:37Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student under 18 years old.",
+		"idRelatedTo": 94,
+		"nameUser": "Sean",
+		"roleResponsible": "Administration",
+		"timestamp": 38,
+		"date": "2022-12-14T05:00:38Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 87,
+		"nameUser": "Jayce",
+		"roleResponsible": "Teacher",
+		"timestamp": 38,
+		"date": "2022-12-14T05:00:38Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Blake, 18 years old, from Czechia, the request will be analyzed soon enough.",
+		"idRelatedTo": 73,
+		"nameUser": "Blake",
+		"roleResponsible": "Director",
+		"timestamp": 42,
+		"date": "2022-12-14T05:00:42Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 73,
+		"nameUser": "Blake",
+		"roleResponsible": "Administration",
+		"timestamp": 43,
+		"date": "2022-12-14T05:00:43Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 1,
+		"nameUser": "George",
+		"roleResponsible": "Teacher",
+		"timestamp": 44,
+		"date": "2022-12-14T05:00:44Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Jace, 27 years old, from Norway, the request will be analyzed soon enough.",
+		"idRelatedTo": 88,
+		"nameUser": "Jace",
+		"roleResponsible": "Director",
+		"timestamp": 48,
+		"date": "2022-12-14T05:00:48Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 88,
+		"nameUser": "Jace",
+		"roleResponsible": "Administration",
+		"timestamp": 50,
+		"date": "2022-12-14T05:00:50Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 16,
+		"nameUser": "Drew",
+		"roleResponsible": "Teacher",
+		"timestamp": 50,
+		"date": "2022-12-14T05:00:50Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Tate, 21 years old, from Spain, the request will be analyzed soon enough.",
+		"idRelatedTo": 55,
+		"nameUser": "Tate",
+		"roleResponsible": "Director",
+		"timestamp": 54,
+		"date": "2022-12-14T05:00:54Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 55,
+		"nameUser": "Tate",
+		"roleResponsible": "Administration",
+		"timestamp": 55,
+		"date": "2022-12-14T05:00:55Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Tate, 22 years old, from Portugal, the request will be analyzed soon enough.",
+		"idRelatedTo": 8,
+		"nameUser": "Tate",
+		"roleResponsible": "Director",
+		"timestamp": 59,
+		"date": "2022-12-14T05:00:59Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 8,
+		"nameUser": "Tate",
+		"roleResponsible": "Administration",
+		"timestamp": 60,
+		"date": "2022-12-14T05:01:00Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Sean, 30 years old, from Denmark, the request will be analyzed soon enough.",
+		"idRelatedTo": 99,
+		"nameUser": "Sean",
+		"roleResponsible": "Director",
+		"timestamp": 62,
+		"date": "2022-12-14T05:01:02Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 99,
+		"nameUser": "Sean",
+		"roleResponsible": "Administration",
+		"timestamp": 63,
+		"date": "2022-12-14T05:01:03Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Cruz, 16 years old, from Denmark, the request will be analyzed soon enough.",
+		"idRelatedTo": 82,
+		"nameUser": "Cruz",
+		"roleResponsible": "Director",
+		"timestamp": 67,
+		"date": "2022-12-14T05:01:07Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student under 18 years old.",
+		"idRelatedTo": 82,
+		"nameUser": "Cruz",
+		"roleResponsible": "Administration",
+		"timestamp": 68,
+		"date": "2022-12-14T05:01:08Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 73,
+		"nameUser": "Blake",
+		"roleResponsible": "Teacher",
+		"timestamp": 68,
+		"date": "2022-12-14T05:01:08Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Jay, 32 years old, from Albania, the request will be analyzed soon enough.",
+		"idRelatedTo": 57,
+		"nameUser": "Jay",
+		"roleResponsible": "Director",
+		"timestamp": 72,
+		"date": "2022-12-14T05:01:12Z"
+	},
+	{
+		"title": "Ask register again",
+		"description": "The register you provided student is not filled correctly, please register again with correct information.",
+		"idRelatedTo": 57,
+		"nameUser": "Jay",
+		"roleResponsible": "Administration",
+		"timestamp": 73,
+		"date": "2022-12-14T05:01:13Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 88,
+		"nameUser": "Jace",
+		"roleResponsible": "Teacher",
+		"timestamp": 75,
+		"date": "2022-12-14T05:01:15Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Jace, 22 years old, from Turkey, the request will be analyzed soon enough.",
+		"idRelatedTo": 74,
+		"nameUser": "Jace",
+		"roleResponsible": "Director",
+		"timestamp": 78,
+		"date": "2022-12-14T05:01:18Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 74,
+		"nameUser": "Jace",
+		"roleResponsible": "Administration",
+		"timestamp": 80,
+		"date": "2022-12-14T05:01:20Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 55,
+		"nameUser": "Tate",
+		"roleResponsible": "Teacher",
+		"timestamp": 80,
+		"date": "2022-12-14T05:01:20Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 8,
+		"nameUser": "Tate",
+		"roleResponsible": "Teacher",
+		"timestamp": 82,
+		"date": "2022-12-14T05:01:22Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Reed, 18 years old, from Albania, the request will be analyzed soon enough.",
+		"idRelatedTo": 39,
+		"nameUser": "Reed",
+		"roleResponsible": "Director",
+		"timestamp": 87,
+		"date": "2022-12-14T05:01:27Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 39,
+		"nameUser": "Reed",
+		"roleResponsible": "Administration",
+		"timestamp": 88,
+		"date": "2022-12-14T05:01:28Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 99,
+		"nameUser": "Sean",
+		"roleResponsible": "Teacher",
+		"timestamp": 88,
+		"date": "2022-12-14T05:01:28Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Grant, 22 years old, from Poland, the request will be analyzed soon enough.",
+		"idRelatedTo": 13,
+		"nameUser": "Grant",
+		"roleResponsible": "Director",
+		"timestamp": 92,
+		"date": "2022-12-14T05:01:32Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 13,
+		"nameUser": "Grant",
+		"roleResponsible": "Administration",
+		"timestamp": 93,
+		"date": "2022-12-14T05:01:33Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 74,
+		"nameUser": "Jace",
+		"roleResponsible": "Teacher",
+		"timestamp": 95,
+		"date": "2022-12-14T05:01:35Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 39,
+		"nameUser": "Reed",
+		"roleResponsible": "Teacher",
+		"timestamp": 96,
+		"date": "2022-12-14T05:01:36Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Zane, 23 years old, from Poland, the request will be analyzed soon enough.",
+		"idRelatedTo": 2,
+		"nameUser": "Zane",
+		"roleResponsible": "Director",
+		"timestamp": 100,
+		"date": "2022-12-14T05:01:40Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 2,
+		"nameUser": "Zane",
+		"roleResponsible": "Administration",
+		"timestamp": 102,
+		"date": "2022-12-14T05:01:42Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Nash, 25 years old, from Sweden, the request will be analyzed soon enough.",
+		"idRelatedTo": 40,
+		"nameUser": "Nash",
+		"roleResponsible": "Director",
+		"timestamp": 104,
+		"date": "2022-12-14T05:01:44Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 40,
+		"nameUser": "Nash",
+		"roleResponsible": "Administration",
+		"timestamp": 106,
+		"date": "2022-12-14T05:01:46Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 13,
+		"nameUser": "Grant",
+		"roleResponsible": "Teacher",
+		"timestamp": 106,
+		"date": "2022-12-14T05:01:46Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 2,
+		"nameUser": "Zane",
+		"roleResponsible": "Teacher",
+		"timestamp": 108,
+		"date": "2022-12-14T05:01:48Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Cash, 20 years old, from Slovakia, the request will be analyzed soon enough.",
+		"idRelatedTo": 63,
+		"nameUser": "Cash",
+		"roleResponsible": "Director",
+		"timestamp": 112,
+		"date": "2022-12-14T05:01:52Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 63,
+		"nameUser": "Cash",
+		"roleResponsible": "Administration",
+		"timestamp": 113,
+		"date": "2022-12-14T05:01:53Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Jett, 30 years old, from Denmark, the request will be analyzed soon enough.",
+		"idRelatedTo": 0,
+		"nameUser": "Jett",
+		"roleResponsible": "Director",
+		"timestamp": 117,
+		"date": "2022-12-14T05:01:57Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 0,
+		"nameUser": "Jett",
+		"roleResponsible": "Administration",
+		"timestamp": 118,
+		"date": "2022-12-14T05:01:58Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 40,
+		"nameUser": "Nash",
+		"roleResponsible": "Teacher",
+		"timestamp": 118,
+		"date": "2022-12-14T05:01:58Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Juan, 24 years old, from Russia, the request will be analyzed soon enough.",
+		"idRelatedTo": 14,
+		"nameUser": "Juan",
+		"roleResponsible": "Director",
+		"timestamp": 122,
+		"date": "2022-12-14T05:02:02Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 14,
+		"nameUser": "Juan",
+		"roleResponsible": "Administration",
+		"timestamp": 124,
+		"date": "2022-12-14T05:02:04Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Jake, 27 years old, from Hungary, the request will be analyzed soon enough.",
+		"idRelatedTo": 93,
+		"nameUser": "Jake",
+		"roleResponsible": "Director",
+		"timestamp": 126,
+		"date": "2022-12-14T05:02:06Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 93,
+		"nameUser": "Jake",
+		"roleResponsible": "Administration",
+		"timestamp": 127,
+		"date": "2022-12-14T05:02:07Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 63,
+		"nameUser": "Cash",
+		"roleResponsible": "Teacher",
+		"timestamp": 128,
+		"date": "2022-12-14T05:02:08Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 0,
+		"nameUser": "Jett",
+		"roleResponsible": "Teacher",
+		"timestamp": 130,
+		"date": "2022-12-14T05:02:10Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 14,
+		"nameUser": "Juan",
+		"roleResponsible": "Teacher",
+		"timestamp": 132,
+		"date": "2022-12-14T05:02:12Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Blake, 20 years old, from Portugal, the request will be analyzed soon enough.",
+		"idRelatedTo": 67,
+		"nameUser": "Blake",
+		"roleResponsible": "Director",
+		"timestamp": 136,
+		"date": "2022-12-14T05:02:16Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 67,
+		"nameUser": "Blake",
+		"roleResponsible": "Administration",
+		"timestamp": 137,
+		"date": "2022-12-14T05:02:17Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Finn, 15 years old, from Kosovo, the request will be analyzed soon enough.",
+		"idRelatedTo": 31,
+		"nameUser": "Finn",
+		"roleResponsible": "Director",
+		"timestamp": 141,
+		"date": "2022-12-14T05:02:21Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student under 18 years old.",
+		"idRelatedTo": 31,
+		"nameUser": "Finn",
+		"roleResponsible": "Administration",
+		"timestamp": 142,
+		"date": "2022-12-14T05:02:22Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Luke, 32 years old, from Hungary, the request will be analyzed soon enough.",
+		"idRelatedTo": 49,
+		"nameUser": "Luke",
+		"roleResponsible": "Director",
+		"timestamp": 144,
+		"date": "2022-12-14T05:02:24Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 49,
+		"nameUser": "Luke",
+		"roleResponsible": "Administration",
+		"timestamp": 146,
+		"date": "2022-12-14T05:02:26Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Nash, 18 years old, from Italy, the request will be analyzed soon enough.",
+		"idRelatedTo": 33,
+		"nameUser": "Nash",
+		"roleResponsible": "Director",
+		"timestamp": 148,
+		"date": "2022-12-14T05:02:28Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 33,
+		"nameUser": "Nash",
+		"roleResponsible": "Administration",
+		"timestamp": 149,
+		"date": "2022-12-14T05:02:29Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 93,
+		"nameUser": "Jake",
+		"roleResponsible": "Teacher",
+		"timestamp": 150,
+		"date": "2022-12-14T05:02:30Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 67,
+		"nameUser": "Blake",
+		"roleResponsible": "Teacher",
+		"timestamp": 152,
+		"date": "2022-12-14T05:02:32Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 49,
+		"nameUser": "Luke",
+		"roleResponsible": "Teacher",
+		"timestamp": 154,
+		"date": "2022-12-14T05:02:34Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 33,
+		"nameUser": "Nash",
+		"roleResponsible": "Teacher",
+		"timestamp": 156,
+		"date": "2022-12-14T05:02:36Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Blake, 25 years old, from France, the request will be analyzed soon enough.",
+		"idRelatedTo": 21,
+		"nameUser": "Blake",
+		"roleResponsible": "Director",
+		"timestamp": 160,
+		"date": "2022-12-14T05:02:40Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student from France due to previous bad experience with them.",
+		"idRelatedTo": 21,
+		"nameUser": "Blake",
+		"roleResponsible": "Administration",
+		"timestamp": 162,
+		"date": "2022-12-14T05:02:42Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from James, 28 years old, from Portugal, the request will be analyzed soon enough.",
+		"idRelatedTo": 38,
+		"nameUser": "James",
+		"roleResponsible": "Director",
+		"timestamp": 164,
+		"date": "2022-12-14T05:02:44Z"
+	},
+	{
+		"title": "Ask register again",
+		"description": "The register you provided student is not filled correctly, please register again with correct information.",
+		"idRelatedTo": 38,
+		"nameUser": "James",
+		"roleResponsible": "Administration",
+		"timestamp": 165,
+		"date": "2022-12-14T05:02:45Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Tate, 18 years old, from Russia, the request will be analyzed soon enough.",
+		"idRelatedTo": 59,
+		"nameUser": "Tate",
+		"roleResponsible": "Director",
+		"timestamp": 169,
+		"date": "2022-12-14T05:02:49Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 59,
+		"nameUser": "Tate",
+		"roleResponsible": "Administration",
+		"timestamp": 170,
+		"date": "2022-12-14T05:02:50Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Bryce, 28 years old, from Germany, the request will be analyzed soon enough.",
+		"idRelatedTo": 98,
+		"nameUser": "Bryce",
+		"roleResponsible": "Director",
+		"timestamp": 172,
+		"date": "2022-12-14T05:02:52Z"
+	},
+	{
+		"title": "Ask register again",
+		"description": "The register you provided student is not filled correctly, please register again with correct information.",
+		"idRelatedTo": 98,
+		"nameUser": "Bryce",
+		"roleResponsible": "Administration",
+		"timestamp": 173,
+		"date": "2022-12-14T05:02:53Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Cole, 19 years old, from Kosovo, the request will be analyzed soon enough.",
+		"idRelatedTo": 58,
+		"nameUser": "Cole",
+		"roleResponsible": "Director",
+		"timestamp": 177,
+		"date": "2022-12-14T05:02:57Z"
+	},
+	{
+		"title": "Ask register again",
+		"description": "The register you provided student is not filled correctly, please register again with correct information.",
+		"idRelatedTo": 58,
+		"nameUser": "Cole",
+		"roleResponsible": "Administration",
+		"timestamp": 178,
+		"date": "2022-12-14T05:02:58Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 59,
+		"nameUser": "Tate",
+		"roleResponsible": "Teacher",
+		"timestamp": 178,
+		"date": "2022-12-14T05:02:58Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from James, 30 years old, from Spain, the request will be analyzed soon enough.",
+		"idRelatedTo": 46,
+		"nameUser": "James",
+		"roleResponsible": "Director",
+		"timestamp": 182,
+		"date": "2022-12-14T05:03:02Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 46,
+		"nameUser": "James",
+		"roleResponsible": "Administration",
+		"timestamp": 183,
+		"date": "2022-12-14T05:03:03Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Drew, 26 years old, from Hungary, the request will be analyzed soon enough.",
+		"idRelatedTo": 95,
+		"nameUser": "Drew",
+		"roleResponsible": "Director",
+		"timestamp": 187,
+		"date": "2022-12-14T05:03:07Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 95,
+		"nameUser": "Drew",
+		"roleResponsible": "Administration",
+		"timestamp": 188,
+		"date": "2022-12-14T05:03:08Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Shane, 26 years old, from Slovenia, the request will be analyzed soon enough.",
+		"idRelatedTo": 72,
+		"nameUser": "Shane",
+		"roleResponsible": "Director",
+		"timestamp": 190,
+		"date": "2022-12-14T05:03:10Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 72,
+		"nameUser": "Shane",
+		"roleResponsible": "Administration",
+		"timestamp": 192,
+		"date": "2022-12-14T05:03:12Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Prince, 25 years old, from Hungary, the request will be analyzed soon enough.",
+		"idRelatedTo": 71,
+		"nameUser": "Prince",
+		"roleResponsible": "Director",
+		"timestamp": 195,
+		"date": "2022-12-14T05:03:15Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 71,
+		"nameUser": "Prince",
+		"roleResponsible": "Administration",
+		"timestamp": 196,
+		"date": "2022-12-14T05:03:16Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 46,
+		"nameUser": "James",
+		"roleResponsible": "Teacher",
+		"timestamp": 196,
+		"date": "2022-12-14T05:03:16Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Lane, 29 years old, from Denmark, the request will be analyzed soon enough.",
+		"idRelatedTo": 61,
+		"nameUser": "Lane",
+		"roleResponsible": "Director",
+		"timestamp": 200,
+		"date": "2022-12-14T05:03:20Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 61,
+		"nameUser": "Lane",
+		"roleResponsible": "Administration",
+		"timestamp": 202,
+		"date": "2022-12-14T05:03:22Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 95,
+		"nameUser": "Drew",
+		"roleResponsible": "Teacher",
+		"timestamp": 202,
+		"date": "2022-12-14T05:03:22Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 72,
+		"nameUser": "Shane",
+		"roleResponsible": "Teacher",
+		"timestamp": 204,
+		"date": "2022-12-14T05:03:24Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 71,
+		"nameUser": "Prince",
+		"roleResponsible": "Teacher",
+		"timestamp": 206,
+		"date": "2022-12-14T05:03:26Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Cash, 17 years old, from Greece, the request will be analyzed soon enough.",
+		"idRelatedTo": 76,
+		"nameUser": "Cash",
+		"roleResponsible": "Director",
+		"timestamp": 210,
+		"date": "2022-12-14T05:03:30Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student under 18 years old.",
+		"idRelatedTo": 76,
+		"nameUser": "Cash",
+		"roleResponsible": "Administration",
+		"timestamp": 212,
+		"date": "2022-12-14T05:03:32Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Kash, 27 years old, from Greece, the request will be analyzed soon enough.",
+		"idRelatedTo": 86,
+		"nameUser": "Kash",
+		"roleResponsible": "Director",
+		"timestamp": 214,
+		"date": "2022-12-14T05:03:34Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 86,
+		"nameUser": "Kash",
+		"roleResponsible": "Administration",
+		"timestamp": 215,
+		"date": "2022-12-14T05:03:35Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Kade, 32 years old, from Albania, the request will be analyzed soon enough.",
+		"idRelatedTo": 29,
+		"nameUser": "Kade",
+		"roleResponsible": "Director",
+		"timestamp": 218,
+		"date": "2022-12-14T05:03:38Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 29,
+		"nameUser": "Kade",
+		"roleResponsible": "Administration",
+		"timestamp": 220,
+		"date": "2022-12-14T05:03:40Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Myles, 26 years old, from Germany, the request will be analyzed soon enough.",
+		"idRelatedTo": 51,
+		"nameUser": "Myles",
+		"roleResponsible": "Director",
+		"timestamp": 222,
+		"date": "2022-12-14T05:03:42Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 51,
+		"nameUser": "Myles",
+		"roleResponsible": "Administration",
+		"timestamp": 223,
+		"date": "2022-12-14T05:03:43Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Brock, 22 years old, from Slovenia, the request will be analyzed soon enough.",
+		"idRelatedTo": 28,
+		"nameUser": "Brock",
+		"roleResponsible": "Director",
+		"timestamp": 227,
+		"date": "2022-12-14T05:03:47Z"
+	},
+	{
+		"title": "Ask register again",
+		"description": "The register you provided student is not filled correctly, please register again with correct information.",
+		"idRelatedTo": 28,
+		"nameUser": "Brock",
+		"roleResponsible": "Administration",
+		"timestamp": 228,
+		"date": "2022-12-14T05:03:48Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Ace, 15 years old, from Russia, the request will be analyzed soon enough.",
+		"idRelatedTo": 43,
+		"nameUser": "Ace",
+		"roleResponsible": "Director",
+		"timestamp": 231,
+		"date": "2022-12-14T05:03:51Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student under 18 years old.",
+		"idRelatedTo": 43,
+		"nameUser": "Ace",
+		"roleResponsible": "Administration",
+		"timestamp": 232,
+		"date": "2022-12-14T05:03:52Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Hayes, 23 years old, from Kosovo, the request will be analyzed soon enough.",
+		"idRelatedTo": 44,
+		"nameUser": "Hayes",
+		"roleResponsible": "Director",
+		"timestamp": 234,
+		"date": "2022-12-14T05:03:54Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 44,
+		"nameUser": "Hayes",
+		"roleResponsible": "Administration",
+		"timestamp": 235,
+		"date": "2022-12-14T05:03:55Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 61,
+		"nameUser": "Lane",
+		"roleResponsible": "Teacher",
+		"timestamp": 236,
+		"date": "2022-12-14T05:03:56Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Royce, 22 years old, from Germany, the request will be analyzed soon enough.",
+		"idRelatedTo": 19,
+		"nameUser": "Royce",
+		"roleResponsible": "Director",
+		"timestamp": 240,
+		"date": "2022-12-14T05:04:00Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 19,
+		"nameUser": "Royce",
+		"roleResponsible": "Administration",
+		"timestamp": 242,
+		"date": "2022-12-14T05:04:02Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 86,
+		"nameUser": "Kash",
+		"roleResponsible": "Teacher",
+		"timestamp": 242,
+		"date": "2022-12-14T05:04:02Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Reid, 21 years old, from Portugal, the request will be analyzed soon enough.",
+		"idRelatedTo": 20,
+		"nameUser": "Reid",
+		"roleResponsible": "Director",
+		"timestamp": 246,
+		"date": "2022-12-14T05:04:06Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 20,
+		"nameUser": "Reid",
+		"roleResponsible": "Administration",
+		"timestamp": 247,
+		"date": "2022-12-14T05:04:07Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 29,
+		"nameUser": "Kade",
+		"roleResponsible": "Teacher",
+		"timestamp": 249,
+		"date": "2022-12-14T05:04:09Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Zane, 24 years old, from Portugal, the request will be analyzed soon enough.",
+		"idRelatedTo": 17,
+		"nameUser": "Zane",
+		"roleResponsible": "Director",
+		"timestamp": 252,
+		"date": "2022-12-14T05:04:12Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 17,
+		"nameUser": "Zane",
+		"roleResponsible": "Administration",
+		"timestamp": 253,
+		"date": "2022-12-14T05:04:13Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Max, 22 years old, from Slovenia, the request will be analyzed soon enough.",
+		"idRelatedTo": 27,
+		"nameUser": "Max",
+		"roleResponsible": "Director",
+		"timestamp": 256,
+		"date": "2022-12-14T05:04:16Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 27,
+		"nameUser": "Max",
+		"roleResponsible": "Administration",
+		"timestamp": 257,
+		"date": "2022-12-14T05:04:17Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Seth, 22 years old, from United Kingdom, the request will be analyzed soon enough.",
+		"idRelatedTo": 50,
+		"nameUser": "Seth",
+		"roleResponsible": "Director",
+		"timestamp": 261,
+		"date": "2022-12-14T05:04:21Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 50,
+		"nameUser": "Seth",
+		"roleResponsible": "Administration",
+		"timestamp": 262,
+		"date": "2022-12-14T05:04:22Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 51,
+		"nameUser": "Myles",
+		"roleResponsible": "Teacher",
+		"timestamp": 262,
+		"date": "2022-12-14T05:04:22Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 44,
+		"nameUser": "Hayes",
+		"roleResponsible": "Teacher",
+		"timestamp": 264,
+		"date": "2022-12-14T05:04:24Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Zayn, 29 years old, from Switzerland, the request will be analyzed soon enough.",
+		"idRelatedTo": 3,
+		"nameUser": "Zayn",
+		"roleResponsible": "Director",
+		"timestamp": 268,
+		"date": "2022-12-14T05:04:28Z"
+	},
+	{
+		"title": "Ask register again",
+		"description": "The register you provided student is not filled correctly, please register again with correct information.",
+		"idRelatedTo": 3,
+		"nameUser": "Zayn",
+		"roleResponsible": "Administration",
+		"timestamp": 269,
+		"date": "2022-12-14T05:04:29Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 19,
+		"nameUser": "Royce",
+		"roleResponsible": "Teacher",
+		"timestamp": 270,
+		"date": "2022-12-14T05:04:30Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 20,
+		"nameUser": "Reid",
+		"roleResponsible": "Teacher",
+		"timestamp": 272,
+		"date": "2022-12-14T05:04:32Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 17,
+		"nameUser": "Zane",
+		"roleResponsible": "Teacher",
+		"timestamp": 274,
+		"date": "2022-12-14T05:04:34Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Cruz, 27 years old, from Norway, the request will be analyzed soon enough.",
+		"idRelatedTo": 79,
+		"nameUser": "Cruz",
+		"roleResponsible": "Director",
+		"timestamp": 278,
+		"date": "2022-12-14T05:04:38Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 79,
+		"nameUser": "Cruz",
+		"roleResponsible": "Administration",
+		"timestamp": 280,
+		"date": "2022-12-14T05:04:40Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 27,
+		"nameUser": "Max",
+		"roleResponsible": "Teacher",
+		"timestamp": 280,
+		"date": "2022-12-14T05:04:40Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Dean, 18 years old, from France, the request will be analyzed soon enough.",
+		"idRelatedTo": 11,
+		"nameUser": "Dean",
+		"roleResponsible": "Director",
+		"timestamp": 284,
+		"date": "2022-12-14T05:04:44Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student from France due to previous bad experience with them.",
+		"idRelatedTo": 11,
+		"nameUser": "Dean",
+		"roleResponsible": "Administration",
+		"timestamp": 285,
+		"date": "2022-12-14T05:04:45Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Jake, 17 years old, from Kosovo, the request will be analyzed soon enough.",
+		"idRelatedTo": 66,
+		"nameUser": "Jake",
+		"roleResponsible": "Director",
+		"timestamp": 288,
+		"date": "2022-12-14T05:04:48Z"
+	},
+	{
+		"title": "Refuse (eligibility)",
+		"description": "The university does not accept student under 18 years old.",
+		"idRelatedTo": 66,
+		"nameUser": "Jake",
+		"roleResponsible": "Administration",
+		"timestamp": 289,
+		"date": "2022-12-14T05:04:49Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Knox, 22 years old, from Germany, the request will be analyzed soon enough.",
+		"idRelatedTo": 12,
+		"nameUser": "Knox",
+		"roleResponsible": "Director",
+		"timestamp": 293,
+		"date": "2022-12-14T05:04:53Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 12,
+		"nameUser": "Knox",
+		"roleResponsible": "Administration",
+		"timestamp": 294,
+		"date": "2022-12-14T05:04:54Z"
+	},
+	{
+		"title": "Receive",
+		"description": "Receive register request from Zayne, 30 years old, from Italy, the request will be analyzed soon enough.",
+		"idRelatedTo": 70,
+		"nameUser": "Zayne",
+		"roleResponsible": "Director",
+		"timestamp": 296,
+		"date": "2022-12-14T05:04:56Z"
+	},
+	{
+		"title": "Ask more info",
+		"description": "Your register has been accepted by Administration team. Now you need to provide us more information (transcript of records and motivation letter). Please send us the document before the deadline.",
+		"idRelatedTo": 70,
+		"nameUser": "Zayne",
+		"roleResponsible": "Administration",
+		"timestamp": 297,
+		"date": "2022-12-14T05:04:57Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 3,
+		"nameUser": "Zayn",
+		"roleResponsible": "Administration",
+		"timestamp": 300,
+		"date": "2022-12-14T05:05:00Z"
+	},
+	{
+		"title": "Refuse (grades)",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 0,
+		"nameUser": "Jett",
+		"roleResponsible": "Administration",
+		"timestamp": 301,
+		"date": "2022-12-14T05:05:01Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 1,
+		"nameUser": "George",
+		"roleResponsible": "Administration",
+		"timestamp": 301,
+		"date": "2022-12-14T05:05:01Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 4,
+		"nameUser": "Royce",
+		"roleResponsible": "Administration",
+		"timestamp": 302,
+		"date": "2022-12-14T05:05:02Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 5,
+		"nameUser": "Jax",
+		"roleResponsible": "Administration",
+		"timestamp": 302,
+		"date": "2022-12-14T05:05:02Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 2,
+		"nameUser": "Zane",
+		"roleResponsible": "Administration",
+		"timestamp": 303,
+		"date": "2022-12-14T05:05:03Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 50,
+		"nameUser": "Seth",
+		"roleResponsible": "Teacher",
+		"timestamp": 303,
+		"date": "2022-12-14T05:05:03Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 8,
+		"nameUser": "Tate",
+		"roleResponsible": "Administration",
+		"timestamp": 303,
+		"date": "2022-12-14T05:05:03Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 6,
+		"nameUser": "Brooks",
+		"roleResponsible": "Administration",
+		"timestamp": 303,
+		"date": "2022-12-14T05:05:03Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 7,
+		"nameUser": "Grant",
+		"roleResponsible": "Administration",
+		"timestamp": 304,
+		"date": "2022-12-14T05:05:04Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 13,
+		"nameUser": "Grant",
+		"roleResponsible": "Administration",
+		"timestamp": 304,
+		"date": "2022-12-14T05:05:04Z"
+	},
+	{
+		"title": "Refuse (motivation letter)",
+		"description": "We are deeply sorry to announce you that out university judged your grades too low regarding to information you provided. We are glad you took the application in consideration and wish you luck for your future studies.",
+		"idRelatedTo": 79,
+		"nameUser": "Cruz",
+		"roleResponsible": "Teacher",
+		"timestamp": 304,
+		"date": "2022-12-14T05:05:04Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 9,
+		"nameUser": "Zayne",
+		"roleResponsible": "Administration",
+		"timestamp": 305,
+		"date": "2022-12-14T05:05:05Z"
+	},
+	{
+		"title": "Refuse (grades)",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 14,
+		"nameUser": "Juan",
+		"roleResponsible": "Administration",
+		"timestamp": 305,
+		"date": "2022-12-14T05:05:05Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 16,
+		"nameUser": "Drew",
+		"roleResponsible": "Administration",
+		"timestamp": 306,
+		"date": "2022-12-14T05:05:06Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 10,
+		"nameUser": "Jayce",
+		"roleResponsible": "Administration",
+		"timestamp": 307,
+		"date": "2022-12-14T05:05:07Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 12,
+		"nameUser": "Knox",
+		"roleResponsible": "Administration",
+		"timestamp": 307,
+		"date": "2022-12-14T05:05:07Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 19,
+		"nameUser": "Royce",
+		"roleResponsible": "Administration",
+		"timestamp": 307,
+		"date": "2022-12-14T05:05:07Z"
+	},
+	{
+		"title": "Refuse (grades)",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 20,
+		"nameUser": "Reid",
+		"roleResponsible": "Administration",
+		"timestamp": 308,
+		"date": "2022-12-14T05:05:08Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 15,
+		"nameUser": "Rhett",
+		"roleResponsible": "Administration",
+		"timestamp": 309,
+		"date": "2022-12-14T05:05:09Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 18,
+		"nameUser": "Seth",
+		"roleResponsible": "Administration",
+		"timestamp": 309,
+		"date": "2022-12-14T05:05:09Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 27,
+		"nameUser": "Max",
+		"roleResponsible": "Administration",
+		"timestamp": 310,
+		"date": "2022-12-14T05:05:10Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 29,
+		"nameUser": "Kade",
+		"roleResponsible": "Administration",
+		"timestamp": 310,
+		"date": "2022-12-14T05:05:10Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 22,
+		"nameUser": "Jude",
+		"roleResponsible": "Administration",
+		"timestamp": 310,
+		"date": "2022-12-14T05:05:10Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 12,
+		"nameUser": "Knox",
+		"roleResponsible": "Teacher",
+		"timestamp": 310,
+		"date": "2022-12-14T05:05:10Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 32,
+		"nameUser": "Prince",
+		"roleResponsible": "Administration",
+		"timestamp": 311,
+		"date": "2022-12-14T05:05:11Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 23,
+		"nameUser": "Luke",
+		"roleResponsible": "Administration",
+		"timestamp": 311,
+		"date": "2022-12-14T05:05:11Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 24,
+		"nameUser": "Jax",
+		"roleResponsible": "Administration",
+		"timestamp": 312,
+		"date": "2022-12-14T05:05:12Z"
+	},
+	{
+		"title": "Refuse (grades)",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 33,
+		"nameUser": "Nash",
+		"roleResponsible": "Administration",
+		"timestamp": 312,
+		"date": "2022-12-14T05:05:12Z"
+	},
+	{
+		"title": "Refuse (grades)",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 40,
+		"nameUser": "Nash",
+		"roleResponsible": "Administration",
+		"timestamp": 313,
+		"date": "2022-12-14T05:05:13Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 25,
+		"nameUser": "Jay",
+		"roleResponsible": "Administration",
+		"timestamp": 313,
+		"date": "2022-12-14T05:05:13Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 26,
+		"nameUser": "Kash",
+		"roleResponsible": "Administration",
+		"timestamp": 314,
+		"date": "2022-12-14T05:05:14Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 49,
+		"nameUser": "Luke",
+		"roleResponsible": "Administration",
+		"timestamp": 314,
+		"date": "2022-12-14T05:05:14Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 50,
+		"nameUser": "Seth",
+		"roleResponsible": "Administration",
+		"timestamp": 315,
+		"date": "2022-12-14T05:05:15Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 28,
+		"nameUser": "Brock",
+		"roleResponsible": "Administration",
+		"timestamp": 315,
+		"date": "2022-12-14T05:05:15Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 55,
+		"nameUser": "Tate",
+		"roleResponsible": "Administration",
+		"timestamp": 316,
+		"date": "2022-12-14T05:05:16Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 30,
+		"nameUser": "Nash",
+		"roleResponsible": "Administration",
+		"timestamp": 316,
+		"date": "2022-12-14T05:05:16Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 34,
+		"nameUser": "Jack",
+		"roleResponsible": "Administration",
+		"timestamp": 317,
+		"date": "2022-12-14T05:05:17Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 59,
+		"nameUser": "Tate",
+		"roleResponsible": "Administration",
+		"timestamp": 318,
+		"date": "2022-12-14T05:05:18Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 35,
+		"nameUser": "Luke",
+		"roleResponsible": "Administration",
+		"timestamp": 318,
+		"date": "2022-12-14T05:05:18Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 61,
+		"nameUser": "Lane",
+		"roleResponsible": "Administration",
+		"timestamp": 318,
+		"date": "2022-12-14T05:05:18Z"
+	},
+	{
+		"title": "Refuse (grades)",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 67,
+		"nameUser": "Blake",
+		"roleResponsible": "Administration",
+		"timestamp": 319,
+		"date": "2022-12-14T05:05:19Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 36,
+		"nameUser": "Sean",
+		"roleResponsible": "Administration",
+		"timestamp": 319,
+		"date": "2022-12-14T05:05:19Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 37,
+		"nameUser": "John",
+		"roleResponsible": "Administration",
+		"timestamp": 320,
+		"date": "2022-12-14T05:05:20Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 71,
+		"nameUser": "Prince",
+		"roleResponsible": "Administration",
+		"timestamp": 320,
+		"date": "2022-12-14T05:05:20Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 73,
+		"nameUser": "Blake",
+		"roleResponsible": "Administration",
+		"timestamp": 321,
+		"date": "2022-12-14T05:05:21Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 38,
+		"nameUser": "James",
+		"roleResponsible": "Administration",
+		"timestamp": 321,
+		"date": "2022-12-14T05:05:21Z"
+	},
+	{
+		"title": "Refuse (grades)",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 74,
+		"nameUser": "Jace",
+		"roleResponsible": "Administration",
+		"timestamp": 324,
+		"date": "2022-12-14T05:05:24Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 41,
+		"nameUser": "Lane",
+		"roleResponsible": "Administration",
+		"timestamp": 324,
+		"date": "2022-12-14T05:05:24Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 86,
+		"nameUser": "Kash",
+		"roleResponsible": "Administration",
+		"timestamp": 329,
+		"date": "2022-12-14T05:05:29Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 42,
+		"nameUser": "Jace",
+		"roleResponsible": "Administration",
+		"timestamp": 331,
+		"date": "2022-12-14T05:05:31Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 87,
+		"nameUser": "Jayce",
+		"roleResponsible": "Administration",
+		"timestamp": 332,
+		"date": "2022-12-14T05:05:32Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 88,
+		"nameUser": "Jace",
+		"roleResponsible": "Administration",
+		"timestamp": 332,
+		"date": "2022-12-14T05:05:32Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 45,
+		"nameUser": "Hayes",
+		"roleResponsible": "Administration",
+		"timestamp": 332,
+		"date": "2022-12-14T05:05:32Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 93,
+		"nameUser": "Jake",
+		"roleResponsible": "Administration",
+		"timestamp": 333,
+		"date": "2022-12-14T05:05:33Z"
+	},
+	{
+		"title": "Rank",
+		"description": "We are happy to announce you that you have been selected for ranking. Because we receive a lot of requests from students, we have to rank all students regarding to their grades. You will receive a mail telling you if you have been accepted by the ranking.",
+		"idRelatedTo": 70,
+		"nameUser": "Zayne",
+		"roleResponsible": "Teacher",
+		"timestamp": 333,
+		"date": "2022-12-14T05:05:33Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 47,
+		"nameUser": "Reid",
+		"roleResponsible": "Administration",
+		"timestamp": 333,
+		"date": "2022-12-14T05:05:33Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 48,
+		"nameUser": "Cole",
+		"roleResponsible": "Administration",
+		"timestamp": 334,
+		"date": "2022-12-14T05:05:34Z"
+	},
+	{
+		"title": "Accept",
+		"description": "We are deeply sorry to announce you that we can not keep you in our University because of too much application. We are very glad of your interest in our university and wish you best luck for your future studies.",
+		"idRelatedTo": 95,
+		"nameUser": "Drew",
+		"roleResponsible": "Administration",
+		"timestamp": 334,
+		"date": "2022-12-14T05:05:34Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 52,
+		"nameUser": "Wade",
+		"roleResponsible": "Administration",
+		"timestamp": 335,
+		"date": "2022-12-14T05:05:35Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 53,
+		"nameUser": "Luke",
+		"roleResponsible": "Administration",
+		"timestamp": 336,
+		"date": "2022-12-14T05:05:36Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 54,
+		"nameUser": "Cade",
+		"roleResponsible": "Administration",
+		"timestamp": 337,
+		"date": "2022-12-14T05:05:37Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 56,
+		"nameUser": "Bryce",
+		"roleResponsible": "Administration",
+		"timestamp": 338,
+		"date": "2022-12-14T05:05:38Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 57,
+		"nameUser": "Jay",
+		"roleResponsible": "Administration",
+		"timestamp": 339,
+		"date": "2022-12-14T05:05:39Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 58,
+		"nameUser": "Cole",
+		"roleResponsible": "Administration",
+		"timestamp": 340,
+		"date": "2022-12-14T05:05:40Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 60,
+		"nameUser": "Colt",
+		"roleResponsible": "Administration",
+		"timestamp": 342,
+		"date": "2022-12-14T05:05:42Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 62,
+		"nameUser": "Sean",
+		"roleResponsible": "Administration",
+		"timestamp": 342,
+		"date": "2022-12-14T05:05:42Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 64,
+		"nameUser": "Jace",
+		"roleResponsible": "Administration",
+		"timestamp": 343,
+		"date": "2022-12-14T05:05:43Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 65,
+		"nameUser": "Myles",
+		"roleResponsible": "Administration",
+		"timestamp": 344,
+		"date": "2022-12-14T05:05:44Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 68,
+		"nameUser": "Kai",
+		"roleResponsible": "Administration",
+		"timestamp": 345,
+		"date": "2022-12-14T05:05:45Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 69,
+		"nameUser": "Grant",
+		"roleResponsible": "Administration",
+		"timestamp": 346,
+		"date": "2022-12-14T05:05:46Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 77,
+		"nameUser": "Pierce",
+		"roleResponsible": "Administration",
+		"timestamp": 347,
+		"date": "2022-12-14T05:05:47Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 78,
+		"nameUser": "Brooks",
+		"roleResponsible": "Administration",
+		"timestamp": 348,
+		"date": "2022-12-14T05:05:48Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 80,
+		"nameUser": "Zayn",
+		"roleResponsible": "Administration",
+		"timestamp": 349,
+		"date": "2022-12-14T05:05:49Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 81,
+		"nameUser": "Jace",
+		"roleResponsible": "Administration",
+		"timestamp": 350,
+		"date": "2022-12-14T05:05:50Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 83,
+		"nameUser": "Knox",
+		"roleResponsible": "Administration",
+		"timestamp": 351,
+		"date": "2022-12-14T05:05:51Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 84,
+		"nameUser": "Clark",
+		"roleResponsible": "Administration",
+		"timestamp": 352,
+		"date": "2022-12-14T05:05:52Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 85,
+		"nameUser": "Nash",
+		"roleResponsible": "Administration",
+		"timestamp": 353,
+		"date": "2022-12-14T05:05:53Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 89,
+		"nameUser": "Jayce",
+		"roleResponsible": "Administration",
+		"timestamp": 354,
+		"date": "2022-12-14T05:05:54Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 90,
+		"nameUser": "Jax",
+		"roleResponsible": "Administration",
+		"timestamp": 355,
+		"date": "2022-12-14T05:05:55Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 91,
+		"nameUser": "Shawn",
+		"roleResponsible": "Administration",
+		"timestamp": 356,
+		"date": "2022-12-14T05:05:56Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 92,
+		"nameUser": "Zayn",
+		"roleResponsible": "Administration",
+		"timestamp": 357,
+		"date": "2022-12-14T05:05:57Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 96,
+		"nameUser": "Jase",
+		"roleResponsible": "Administration",
+		"timestamp": 358,
+		"date": "2022-12-14T05:05:58Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 97,
+		"nameUser": "Lane",
+		"roleResponsible": "Administration",
+		"timestamp": 359,
+		"date": "2022-12-14T05:05:59Z"
+	},
+	{
+		"title": "Too late",
+		"description": "We are sorry to announce you that it is now too late for applying to the university. Thank you for your interest on working with us.",
+		"idRelatedTo": 98,
+		"nameUser": "Bryce",
+		"roleResponsible": "Administration",
+		"timestamp": 360,
+		"date": "2022-12-14T05:06:00Z"
+	}
+]
